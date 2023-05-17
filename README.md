@@ -1,4 +1,4 @@
-# test [test](https://github.com/Teamolduser/finalzing#test)
+# test [test](https://github.com/Teamolduser/finalzing#readme#test)
 ## testing [testing](https://github.com/Teamolduser/finalzing#testing)
 ### tryingg [tryingg](https://github.com/Teamolduser/finalzing#tryingg)
 #### [](https://github.com/Teamolduser/finalzing#)
